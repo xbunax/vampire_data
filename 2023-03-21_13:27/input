@@ -1,0 +1,50 @@
+#------------------------------------------
+# Sample vampire input file to perform
+# benchmark calculation for v4.0
+#
+#------------------------------------------
+
+#------------------------------------------
+# Creation attributes:
+#------------------------------------------
+dimensions:unit-cell-size = 3.54 !A
+dimensions:system-size-x = 7.7 !nm
+dimensions:system-size-y = 7.7 !nm
+dimensions:system-size-z = 7.7 !nm
+
+#------------------------------------------
+# Material Files:
+#------------------------------------------
+material:file = Mn2Au.mat
+material:unit-cell-file= Mn2Au3d.ucf
+
+#------------------------------------------
+# Simulation attributes:
+#------------------------------------------
+sim:time-step=1.0E-16
+sim:time-steps-increment=1000
+sim:cooling-time= 0.1 !ns
+sim:cooling-function=linear
+sim:total-time-steps=1000000
+sim:minimum-temperature= 0
+sim:maximum-temperature= 2000
+
+
+#anisotropy:enable-bulk-neel-anistropy
+#anisotropy:surface-anisotropy-threshold= 20
+#anisotropy:surface-anisotropy-nearest-neighbour-range=0.4 !nm
+#------------------------------------------
+# Program and integrator details
+#------------------------------------------
+sim:program = field-cool
+sim:integrator = llg-heun
+
+#------------------------------------------
+# data output
+#------------------------------------------
+output:real-time
+output:temperature
+output:material-magnetisation
+
+screen:temperature
+screen:material-magnetisation

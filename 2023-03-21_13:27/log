@@ -1,0 +1,57 @@
+21-03-2023 [01:27:18] Logfile opened
+21-03-2023 [01:27:18] Executable : vampire-serial
+21-03-2023 [01:27:18] Host name  : compute-0-11.local:
+21-03-2023 [01:27:18] Directory  : /home/mozhu/Mn2Au/2023-03-21_13:27
+21-03-2023 [01:27:18] Process ID : 177821
+21-03-2023 [01:27:18] Version    : 6.0.0
+21-03-2023 [01:27:18] Githash    : 4c9651daecc86c3e6b6df0c8055fcd9e89fd900c
+21-03-2023 [01:27:18] Opening main input file "input".
+21-03-2023 [01:27:18] Parsing system parameters from main input file.
+21-03-2023 [01:27:18] Opening material file "Mn2Au.mat".
+21-03-2023 [01:27:18] Parsing material file for parameters.
+21-03-2023 [01:27:18] Reading in unit cell data from disk...
+21-03-2023 [01:27:18] Reading data completed. Processing unit cell data...
+21-03-2023 [01:27:18] 	Processing data for 4 unit cell atoms...
+21-03-2023 [01:27:18] 	Processing unit cell atoms completed
+21-03-2023 [01:27:18] 	Processing data from 108 interactions...
+21-03-2023 [01:27:18] 	Processing unit cell interactions completed
+21-03-2023 [01:27:18] 	Verifying unit cell exchange interactions...
+21-03-2023 [01:27:18] Verifying unit cell exchange interactions completed
+21-03-2023 [01:27:18] 	Number of atoms read-in: 4
+21-03-2023 [01:27:18] 	Number of bilinear interactions read-in: 108
+21-03-2023 [01:27:18] 	Number of biquadratic interactions read-in: 0
+21-03-2023 [01:27:18] 	Exchange type: 
+21-03-2023 [01:27:18] 	Calculated interaction range: 1 Unit Cells
+21-03-2023 [01:27:18] Calculating alloy properties of system
+21-03-2023 [01:27:18] Determining atomic composition:
+21-03-2023 [01:27:18] Material 1 Mn makes up 51.8519 % of all atoms ( 10206 atoms )
+21-03-2023 [01:27:18] Material 2 Mn makes up 48.1481 % of all atoms ( 9477 atoms )
+21-03-2023 [01:27:18] Memory required for neighbourlist calculation:0.163296 MB
+21-03-2023 [01:27:18] Allocating memory for supercell array in neighbourlist calculation
+21-03-2023 [01:27:18] 	Allocating memory done
+21-03-2023 [01:27:18] Populating supercell array for neighbourlist calculation...
+21-03-2023 [01:27:18] 	Populating supercell array completed
+21-03-2023 [01:27:18] Memory required for neighbour list:4.40899 MB
+21-03-2023 [01:27:18] Generating neighbour list...
+21-03-2023 [01:27:18] 	Neighbour list calculation complete
+21-03-2023 [01:27:18] Deallocating supercell array for neighbour list calculation
+21-03-2023 [01:27:18] 	Supercell array deallocated
+21-03-2023 [01:27:18] Copying system data to optimised data structures.
+21-03-2023 [01:27:18] Number of atoms generated on rank 0: 19683
+21-03-2023 [01:27:18] Memory required for copying to performance array on rank 0: 2.99182 MB RAM
+21-03-2023 [01:27:18] Identifying surface atoms using global threshold value of 0
+21-03-2023 [01:27:18] 0 surface atoms found.
+21-03-2023 [01:27:18] Memory required for creation of 1D neighbour list on rank 0: 0.314928 MB RAM
+21-03-2023 [01:27:18] Initialising data structures for exchange calculation.
+21-03-2023 [01:27:18] Unrolled exchange template requires 0.000864MB RAM
+21-03-2023 [01:27:18] Macrocell size = 10 Angstroms
+21-03-2023 [01:27:18] Macrocells in x,y,z: 8	8	8
+21-03-2023 [01:27:18] Total number of macrocells: 512
+21-03-2023 [01:27:18] Memory required for macrocell arrays: 0.04096 MB
+21-03-2023 [01:27:18] Number of local macrocells on rank 0: 512
+21-03-2023 [01:27:18] Number of atoms generated: 19683
+21-03-2023 [01:27:18] Initialising data structures for anisotropy calculation.
+21-03-2023 [01:27:18] Initialising statistics module
+21-03-2023 [01:27:18] Starting Simulation with Program Field-Cool...
+21-03-2023 [02:13:06] Simulation run time [s]: 2748.23
+21-03-2023 [02:13:06] Simulation ended gracefully.
