@@ -72,3 +72,13 @@ expand_aliases 	on
 {"code":0,"content":{"result":["{\"counts\":1,\"logs\":[],\"success\":\"ok\"}","{\"counts\":1,\"logs\":[],\"success\":\"ok\"}","{\"counts\":1,\"logs\":[],\"success\":\"ok\"}"]}}/home/mozhu/Mn2Au/2023-03-28_18:15
 Your job 5106 ("run.sh") has been submitted
 expand_aliases 	on
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   177    0   177    0     0    347      0 --:--:-- --:--:-- --:--:--   347
+{"code":0,"content":{"result":["{\"counts\":1,\"logs\":[],\"success\":\"ok\"}","{\"counts\":1,\"logs\":[],\"success\":\"ok\"}","{\"counts\":1,\"logs\":[],\"success\":\"ok\"}"]}}/home/mozhu/Mn2Au/2023-03-28_19:28
+Your job 5108 ("run.sh") has been submitted
+expand_aliases 	on
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   177    0   177    0     0    334      0 --:--:-- --:--:-- --:--:--   333100   177    0   177    0     0    333      0 --:--:-- --:--:-- --:--:--   333
+{"code":0,"content":{"result":["{\"counts\":1,\"logs\":[],\"success\":\"ok\"}","{\"counts\":1,\"logs\":[],\"success\":\"ok\"}","{\"counts\":1,\"logs\":[],\"success\":\"ok\"}"]}}
